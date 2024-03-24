@@ -1,11 +1,14 @@
 # Hi there 👋
-# # Welcome to My GitHub Profile!
 
-Hello, I'm<code style="color:blue"> **Maria Francesca Cambria**</code>, a passionate software developer with a love for coding.
+$${\color{red}Welcome} \space {\color{lightblue}To}\space {\color{lightblue}My} \space {\color{lightgreen}Github} \space {\color{lightgreen}Profile}$$
+
+![Immagine di Profilo](157180768.png)
+
+Hello, I'm **Maria Francesca Cambria**, a passionate software developer with a love for coding.
 
 ## Featured Projects
 
-- <code style="color:orange">*Curriculum vitae*</code>
+-*Curriculum vitae*
 [cv](https://github.com/Fra2406/Fra2406/tree/main/cv)
 <!--
 **Fra2406/Fra2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
