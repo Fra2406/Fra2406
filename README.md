@@ -6,7 +6,7 @@ Hello, I'm<span style="color:blue"> [Maria Francesca Cambria]</span>, a passiona
 ## Featured Projects
 
 - <span style="color:orange">[Curriculum vitae]</span>
-[cv](https://github.com/Fra2406/cv)
+[cv](https://github.com/Fra2406/Fra2406/tree/main/cv)
 <!--
 **Fra2406/Fra2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
