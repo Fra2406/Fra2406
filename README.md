@@ -2,17 +2,19 @@
 
 **$${\color{red}Welcome} \space {\color{lightblue}To}\space {\color{lightblue}My} \space {\color{lightgreen}Github} \space {\color{lightgreen}Profile}$$**
 
-![Image](157180768.jpg)
+<img src="157180768.jpg" alt="image" width="150"/>
 
 Hello, I'm **Maria Francesca Cambria**, a passionate software developer with a love for coding.
 
-## Featured Projects
+## Featured Project
 
 -*Curriculum vitae*
 [cv](https://github.com/Fra2406/Fra2406/tree/main/cv)
 
-![Logo](linkedin-logo-icon-3D.png)
-<img src="linkedin-logo-icon-3D.png" alt="Logo" width="50"/>
+<img src="linkedin-logo-icon-3D.png" alt="Logo" width="50"/> 
+[LinkedIn](https://www.linkedin.com/in/maria-francesca-cambria-6a4a372aa)
+
+
 
 
 
