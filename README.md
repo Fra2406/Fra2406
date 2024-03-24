@@ -11,6 +11,11 @@ Hello, I'm **Maria Francesca Cambria**, a passionate software developer with a l
 -*Curriculum vitae*
 [cv](https://github.com/Fra2406/Fra2406/tree/main/cv)
 
+![Logo](linkedin-logo-icon-3D.png)
+<img src="linkedin-logo-icon-3D.png" alt="Logo" width="50"/>
+
+
+
 <!--
 **Fra2406/Fra2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
