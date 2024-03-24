@@ -1,5 +1,12 @@
 # Hi there 👋
-# My name Cambria Maria Francesca
+# # Welcome to My GitHub Profile!
+
+Hello, I'm<span style="color:blue"> Maria Francesca Cambria</span>, a passionate software developer with a love for coding.
+
+## Featured Projects
+
+- <span style="color:orange">Curriculum vitae</span>
+[Nome del Progetto Brackets](https://github.com/nomeutente/nomeprogetto)
 <!--
 **Fra2406/Fra2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
